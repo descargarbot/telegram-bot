@@ -1,5 +1,5 @@
 # telegram bot (descargarbot)
-A Telegram Bot to download videos and images from socials
+A Telegram Bot to download videos and images from socials. Send the link of the video/image and the bot will respond with the video/image.
 <br>
 <h2>dependencies</h2>
 <code>Python 3.9+</code>
